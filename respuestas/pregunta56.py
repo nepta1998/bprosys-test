@@ -1,3 +1,7 @@
+# 6. Diseñe un código que calcule el porcentaje de transacciones de la base
+# conciliable de BANSUR no cruzó contra la liquidación de CLAP.
+# 5. Diseñe un código que calcule el porcentaje de transacciones de la base
+# conciliable de CLAP cruzó contra la liquidación de BANSUR.
 import pandas as pd
 
 
