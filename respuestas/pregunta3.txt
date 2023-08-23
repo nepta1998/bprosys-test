@@ -1,0 +1,10 @@
+3. ¿Cómo se comparan las cifras de los puntos anteriores respecto de las cifras totales en las fuentes desde un punto de vista del negocio?
+
+
+los datos que nos muestran para las transacciones consideradas consilibles para la 
+base CLAP es de: 147331 y existe un total de 163549 transacciones.
+Lo que nos indica que casi un 10% de las transacciones no son consilibles para la base CLAP
+
+Por otro lado, las transacciones que se consideradan consilibles para la base BANSUR
+es de: 132338 y existe un total de 132396 transacciones. Lo cual no indica
+que casi el total de las transacciones son consilibles.
