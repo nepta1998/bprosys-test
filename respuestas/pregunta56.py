@@ -66,13 +66,13 @@ def main():
     print(
         "Porcentaje de transacciones de la base conciliable de CLAP "
         "cruzó contra la liquidación de BANSUR: ",
-        (count_cross/count_clap)*100, "%"
+        round((count_cross/count_clap)*100, 2), "%"
     )
 
     print(
         "porcentaje de transacciones de la base conciliable de BANSUR "
         "no cruzó contra la liquidación de CLAP: ",
-        ((count_bansur-count_cross)/count_bansur)*100, "%"
+        round(((count_bansur-count_cross)/count_bansur)*100, 2), "%"
     )
 
 
